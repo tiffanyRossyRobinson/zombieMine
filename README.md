@@ -10,16 +10,19 @@ Once the user selects their journey phase, the game will begin. If the user sele
 git clone https://github.com/tiffanyRossyRobinson/zombieMine.git
 cd someDirectory 
 bower install 
-npm install serve
+npm install
 ```
 
 ## How To Run 
 
-In order to run the game simple run the following command: 
+In order to run the game install wzrd and run with the following command: 
 
-`serve`
+```
+npm install wzrd -g
+wzrd app.js
+```
 
-you can now find the game at http://localhost:3000/
+you can now find the game at http://localhost:9966/
 
 ## Toolbox
 

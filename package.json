@@ -1,0 +1,24 @@
+{
+  "name": "zombiemine",
+  "version": "1.0.0",
+  "description": "This is a zombie version of MineSweeper. To begin, the player gets to decide which phase they want to begin their journey in the beginning(easy), middle(medium), or end(hard) of the zombie outbreak. Their mission is to navigate through the area without running into a zombie.",
+  "main": "index.js",
+  "dependencies": {
+    "serve": "^1.4.0",
+    "browserify": "^11.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiffanyRossyRobinson/zombieMine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiffanyRossyRobinson/zombieMine/issues"
+  },
+  "homepage": "https://github.com/tiffanyRossyRobinson/zombieMine#readme"
+}

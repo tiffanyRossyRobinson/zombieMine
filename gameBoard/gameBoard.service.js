@@ -12,7 +12,6 @@
             data.columns = setCols(data.width);
             data.classes = setCells(data); 
             data.mines = setMines(data);
-
             deferred.resolve(data);
             return deferred.promise;
           }
