@@ -27,7 +27,7 @@ you can now find the game at http://localhost:9966/
 ## Toolbox
 
 - AngularJS
-- npm serve
+- npm wzrd
 - Underscore.JS 
 
 ## Contribute 
