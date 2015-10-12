@@ -1,7 +1,7 @@
   window.msRun = function ($q) { 
 
 //Game Execution Functions
-
+          
           var determineMines = function(location, mines){
              var deferred = $q.defer();
               var row = Number(location[0]); 

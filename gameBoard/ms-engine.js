@@ -1,5 +1,4 @@
-
- window.msEngine = function ($q) { 
+window.msEngine = function ($q) { 
         //table creating functions
 
           var createTable = function(data){

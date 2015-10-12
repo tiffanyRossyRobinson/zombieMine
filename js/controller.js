@@ -139,7 +139,7 @@
               if(total === 100){
                 alert("You have survived!")
                 $rootScope.selectedCells = [];
-                // disableAllCells($scope.game)
+                disableAllCells($scope.game)
 
               }
           }
